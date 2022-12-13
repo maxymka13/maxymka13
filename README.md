@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maxymka13
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Java language
-- 💞️ I’m looking to collaborate nd finally find mentor for my journey
+- 💞️ I’m looking to collaborate and finally find mentor for my journey
 - 📫 How to reach me maksym.bodnariuk@gmail.com
 
 <!---
